@@ -1,9 +1,3 @@
 央视频道,#genre#
-CCTV7,http://125.42.148.230:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 卫视频道,#genre#
-北京卫视,http://125.42.150.35:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-厦门卫视,http://125.42.148.230:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 其他频道,#genre#
-会议中心直播,http://gcbsc.v.live.baishancdnx.cn/gc/taishan03_1/index.m3u8
-商务中心直播,http://gcbsc.v.live.baishancdnx.cn/gc/jhs02_1/index.m3u8
-礼宴中心直播,http://gcbsc.v.live.baishancdnx.cn/gc/yxxdpf_1/index.m3u8
