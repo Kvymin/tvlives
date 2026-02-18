@@ -1,0 +1,5 @@
+CCTV3,http://182.114.49.8:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0,0.593 MB/s
+CCTV9,http://125.42.148.191:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0,0.593 MB/s
+江苏卫视,http://182.114.49.8:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0,0.593 MB/s
+河南都市报道,http://182.114.49.8:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0,0.593 MB/s
+青海卫视,http://118.72.48.240:888/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0,0.593 MB/s
